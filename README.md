@@ -1,6 +1,8 @@
 #Student Grade Tracker
 
 A command-line application built with Python that helps track student grades, compute GPA, and generate academic reports — all from the terminal.
+
+
 ![App Preview](preview.png)
 ---
 
